@@ -1,5 +1,5 @@
 # shh
-(not)secret shell goodies
+(not so) secret shell goodies
 
 ## date_to_rfc2822
 portable-ish way to convert any date format into a valid RFC2822 date:
